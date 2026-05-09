@@ -7,10 +7,6 @@ Whitespace Studio is a Final Year Python Django Project for Interior Design and 
 
 Whitespace Studio is a full-stack **interior solutions and furniture e-commerce platform** built using **Python-Django**. It enables users to explore, rate, and purchase modern interior and furniture items while providing sellers and admins with dedicated management dashboards.
 
-## 📌 Project Overview
-
-Whitespace Studio aims to offer an AI-enhanced, user-friendly experience for customers looking for interior design inspiration and furniture purchases. This platform also allows interior designers and sellers to showcase products, manage inventory, and engage with users directly.
-
 ## 🚀 Features
 
 ### ✅ User Module
