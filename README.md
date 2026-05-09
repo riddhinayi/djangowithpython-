@@ -1,3 +1,8 @@
+# Django Interior Design Management System
+
+Whitespace Studio is a Final Year Python Django Project for Interior Design and Furniture Management.
+
+
 # 🏠 Whitespace Studio
 
 Whitespace Studio is a full-stack **interior solutions and furniture e-commerce platform** built using **Python-Django**. It enables users to explore, rate, and purchase modern interior and furniture items while providing sellers and admins with dedicated management dashboards.
@@ -82,25 +87,27 @@ Create a .env file for secret keys (if used):
    cd whitespace-studio
    
 2.Create a Virtual Environment
-  python -m venv env
-  source env/bin/activate  # On Windows: env\Scripts\activate
+  #python -m venv env
+  #source env/bin/activate  # On Windows: env\Scripts\activate
 
 3.Install Dependencies
-  pip install -r requirements.txt
+  #pip install -r requirements.txt
 
 4.Run Migrations
-  python manage.py makemigrations
-  python manage.py migrate
+   #python manage.py makemigrations
+   #python manage.py migrate
 
 5.Create Superuser
-  python manage.py createsuperuser
+  #python manage.py createsuperuser
 
 6.Run the Server
-  python manage.py runserver
+  #python manage.py runserver
 
 7.Visit the Site
   Frontend: http://localhost:8000/
   Admin: http://localhost:8000/admin/
 
+## Screenshots 
 
+<img width="1179" height="876" alt="image" src="https://github.com/user-attachments/assets/d06eee1a-aea2-4573-bab3-6735381bd3cb" />
 
