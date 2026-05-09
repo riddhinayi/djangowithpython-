@@ -113,5 +113,24 @@ Create a .env file for secret keys (if used):
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6e9669d4-e41f-403a-839c-adf33cdf62cb" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/814da30f-771c-4eeb-9395-99fcf99e3021" />
 
+## 📩 Purchase This Project
+
+This project source code is available for learning and academic purposes.
+
+## 💰 Project Pricing 500
+
+If you want:
+- Full Source Code
+- Project Report
+- PPT
+- Setup Support
+- Deployment Help
+- Customization
+
+Contact:
+
+📧 Email: riddhinayi2003@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/riddhi-nayi-b450b5264/ 
+
 
 
