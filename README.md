@@ -108,6 +108,12 @@ Create a .env file for secret keys (if used):
   Admin: http://localhost:8000/admin/
 
 ## Screenshots 
-
+---> home page
 <img width="1179" height="876" alt="image" src="https://github.com/user-attachments/assets/d06eee1a-aea2-4573-bab3-6735381bd3cb" />
+---> product page
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3450d1eb-108f-41c1-b42a-1255b70362ee" />
+-->seller page
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6e9669d4-e41f-403a-839c-adf33cdf62cb" />
+
+
 
